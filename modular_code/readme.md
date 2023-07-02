@@ -39,11 +39,13 @@ Once you have the repository and dependencies set up, you can use the modular co
 
 4. Use the `feature_engineering.py` module to create additional features or transform existing features to enhance the predictive power of your model.
 
-5. Utilize the `model_training.py` module to train and optimize your classification model using various algorithms such as logistic regression, decision trees, random forests, or support vector machines (SVM).
+5. Utilize the `train_model.py` module to train and optimize your classification model using various algorithms such as logistic regression, decision trees, random forests, or support vector machines (SVM).
 
 6. Evaluate the performance of your trained models using the `model_evaluation.py` module. Calculate metrics such as accuracy, precision, recall, F1 score, or area under the ROC curve (AUC-ROC) to assess the model's effectiveness.
 
 7. Finally, use the trained model to make predictions on new, unseen borrower data using the `model_prediction.py` module.
+
+8. Execute 'engine.py' to execute the model.
 
 Feel free to modify the provided code, add your own algorithms, or customize the workflow to suit your specific borrower classification needs.
 
