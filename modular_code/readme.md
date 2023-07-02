@@ -1,6 +1,6 @@
 # Borrower Classification
 
-This repository contains modular code for borrower classification, a task that involves predicting potential borrowers. The code is designed to facilitate the classification of borrowers into different risk categories based on various features and data points.
+This repository contains modular code for borrower classification, a task that involves predicting potential borrowers. The code is designed to facilitate the classification of borrowers based on various features and data points.
 
 ## Table of Contents
 
