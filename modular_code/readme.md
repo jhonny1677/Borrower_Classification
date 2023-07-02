@@ -18,7 +18,7 @@ To use the Borrower Classification code, follow these installation steps:
 1. Clone the repository to your local machine by executing the following command:
 
     ```
-    `git clone https://github.com/jhonny1677/Borrower_Classification.git`
+    git clone https://github.com/jhonny1677/Borrower_Classification.git
     ```
 
 2. Ensure you have Python 3.x and pip installed on your system.
@@ -26,7 +26,7 @@ To use the Borrower Classification code, follow these installation steps:
 3. Install the required dependencies by running the following command:
 
     ```
-    `pip install -r requirements.txt`
+    pip install -r requirements.txt
     ```
 
 Once you have the repository and dependencies set up, you can use the modular code for borrower classification as follows:
@@ -35,7 +35,7 @@ Once you have the repository and dependencies set up, you can use the modular co
 
 2. Use the provided modules and code files to perform tasks such as data preprocessing, feature engineering, model training, evaluation, and prediction. The modular structure allows you to customize and combine different components based on your requirements.
 
-3. Start with the `data_preprocessing.py` module to preprocess your dataset, handle missing values, perform feature scaling, and encode categorical variables.
+3. Start with the `utils.py` module to preprocess your dataset, handle missing values, perform feature scaling, and encode categorical variables.
 
 4. Use the `feature_engineering.py` module to create additional features or transform existing features to enhance the predictive power of your model.
 
